@@ -1,0 +1,15 @@
+
+        h1{
+            color:rgb(20, 255, 39)
+        }
+        *{
+            border: solid;            
+        }
+    
+
+
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
